@@ -9,28 +9,72 @@
 ##Test Upload 
 
 
-![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK004/blob/main/appimages/main.png?raw=true)
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/main.png?raw=true)
 
 
-![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK004/blob/main/appimages/signup.png?raw=true)
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/signup.png?raw=true)
 
 
-![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK004/blob/main/appimages/welcome.png?raw=true)
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/welcome.png?raw=true)
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/contacts.png?raw=true)
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/add.png?raw=true)
 
 
-![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK004/blob/main/appimages/logout.png?raw=true)
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/success.png?raw=true)
 
 
-![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK004/blob/main/appimages/login.png?raw=true)
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/refresh.png?raw=true)
 
 
-![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK004/blob/main/appimages/welcome.png?raw=true)
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/delete.png?raw=true)
 
 
-![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK004/blob/main/appimages/contacts.png?raw=true)
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/deleted.png?raw=true)
 
 
-![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK004/blob/main/appimages/add.png?raw=true)
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/update.png?raw=true)
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/upsuccess.png?raw=true)
+
+
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/logout.png?raw=true)
+
+
+
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/login.png?raw=true)
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/welcome.png?raw=true)
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/contacts.png?raw=true)
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/add.png?raw=true)
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/success.png?raw=true)
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/refresh.png?raw=true)
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/delete.png?raw=true)
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/deleted.png?raw=true)
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/update.png?raw=true)
+
+
+![alt text](https://github.com/AY2020-2021-CpE-OJT/ALVAREZ-TASK005/blob/main/appimages/upsuccess.png?raw=true)
 
 
 
